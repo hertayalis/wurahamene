@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://wurahamene.vercel.app/sitemap.xml
